@@ -12,3 +12,4 @@ C:\Users\hzade\Desktop\Backend\Class Exercise\Class Exercise\obj\Debug\net6.0\re
 C:\Users\hzade\Desktop\Backend\Class Exercise\Class Exercise\obj\Debug\net6.0\Class Exercise.pdb
 C:\Users\hzade\Desktop\Backend\Class Exercise\Class Exercise\obj\Debug\net6.0\Class Exercise.genruntimeconfig.cache
 C:\Users\hzade\Desktop\Backend\Class Exercise\Class Exercise\obj\Debug\net6.0\ref\Class Exercise.dll
+C:\Users\hzade\Desktop\Backend\Class Exercise\Class Exercise\obj\Debug\net6.0\Class Exercise.sourcelink.json

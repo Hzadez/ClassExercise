@@ -35,6 +35,8 @@
             };
 
             std1.ShowFullData();
+            std2.ShowFullData();
+            std3.ShowFullData();
 
             Teacher tch1 = new Teacher()
             {
@@ -67,6 +69,8 @@
             };
 
             tch1.ShowFullData();
+            tch2.ShowFullData();
+            tch3.ShowFullData();
 
         }
     }
